@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-import javax.xml.namespace.QName;
+// import javax.xml.namespace.QName;
 
 import java.util.Arrays;
-import java.util.Collections;
+// import java.util.Collections;
 
 
 // * Counting Sort
-public class Sort {
+public class Sort1 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
 
